@@ -6,6 +6,7 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 
 * [FuncionSuma](FuncionSuma.java)
 * [Operaciones](Operaciones.java)
+* [Condicionales](Condionales.java)
 
 ### Ejercicios Tema 3 OpenBootCamp
 
