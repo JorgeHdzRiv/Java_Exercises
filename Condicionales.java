@@ -1,4 +1,4 @@
-public class Condionales {
+public class Condicionales {
     public static void main(String[] args) {
         // Variables de prueba
         // String estacion = "primavera";
