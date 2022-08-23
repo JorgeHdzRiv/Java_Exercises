@@ -9,6 +9,7 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 * [Condicionales](Condionales.java)
 * [While](While.java)
 * [For](For.java)
+* [Switch](Switch.java)
 
 ### Ejercicios Tema 3 OpenBootCamp
 
