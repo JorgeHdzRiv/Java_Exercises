@@ -4,12 +4,12 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 
 ## Basicos
 
-* [FuncionSuma](FuncionSuma.java)
-* [Operaciones](Operaciones.java)
-* [Condicionales](Condionales.java)
-* [While](While.java)
-* [For](For.java)
-* [Switch](Switch.java)
+* [FuncionSuma](./Basicos/FuncionSuma.java)
+* [Operaciones](./Basicos/Operaciones.java)
+* [Condicionales](./Basicos/Condicionales.java)
+* [While](./Basicos/While.java)
+* [For](./Basicos/For.java)
+* [Switch](./Basicos/Switch.java)
 
 ### Ejercicios Tema 3 OpenBootCamp
 
