@@ -11,6 +11,7 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 * [For](./Basicos/For.java)
 * [Switch](./Basicos/Switch.java)
 * [Depuracion](./Basicos/Depuracion.java)
+* [Clases y Objetos](./Basicos/Objetos.java)
 
 
 ### Ejercicios Tema 3 OpenBootCamp
