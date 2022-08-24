@@ -1,3 +1,5 @@
+package Basicos;
+
 public class Condicionales {
     public static void main(String[] args) {
         // Variables de prueba

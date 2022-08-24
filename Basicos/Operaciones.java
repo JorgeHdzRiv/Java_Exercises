@@ -1,3 +1,5 @@
+package Basicos;
+
 public class Operaciones {
     public static void main(String[] args) {
         operaciones(15,5);

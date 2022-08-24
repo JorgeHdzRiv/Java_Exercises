@@ -1,3 +1,5 @@
+package Basicos;
+
 public class FuncionSuma {
 
     public static void suma(double a, double b){

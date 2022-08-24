@@ -10,6 +10,8 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 * [While](./Basicos/While.java)
 * [For](./Basicos/For.java)
 * [Switch](./Basicos/Switch.java)
+* [Depuracion](./Basicos/Depuracion.java)
+
 
 ### Ejercicios Tema 3 OpenBootCamp
 

@@ -1,3 +1,5 @@
+package Basicos;
+
 public class While {
     public static void main(String[] args) {
         int contador = 10;
