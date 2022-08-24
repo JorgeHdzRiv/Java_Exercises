@@ -6,6 +6,7 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 
 * [FuncionSuma](./Basicos/FuncionSuma.java)
 * [Operaciones](./Basicos/Operaciones.java)
+* [Arreglos](./Basicos/Arreglos.java)
 * [Condicionales](./Basicos/Condicionales.java)
 * [While](./Basicos/While.java)
 * [For](./Basicos/For.java)
