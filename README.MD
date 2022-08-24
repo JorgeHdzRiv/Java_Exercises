@@ -1,6 +1,6 @@
 # Introduccion
 
-Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferentes cursos y material educativo algunos de ellos son OpenBootcamp se dividiran por nivel de dificultad teniendo ejemplos de teoria y aplicados de acuerdo a lo aprendido. Los codigos estan comentados para el entendimiento del usuario o lector.
+Los presentes ejercicios son elaborados por mi en base a aprendizaje,diferentes cursos y material educativo.Tambien estan contenidos ejemplos y ejercicios para OpenBootcamp, se dividiran por nivel de dificultad teniendo ejemplos de teoria y aplicados de acuerdo a lo aprendido. Los codigos estan comentados para el entendimiento del usuario o lector.
 
 ## Basicos
 
