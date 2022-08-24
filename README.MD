@@ -24,6 +24,10 @@ El usuario podra introducir la opcion de la figura a la cual calcular el area y 
 * [AreaFiguras](./Basicos/Areafiguras.java)
 
 
+## Intermedios 
+
+* [Encapsulacion](./Intermedios/Encapsulacion.java)
+
 ## OpenBootCamp
 
 ### Ejercicios Tema 3 OpenBootCamp
