@@ -12,6 +12,8 @@ Los presentes ejercicios son elaborados por mi en base a aprendizaje y a diferen
 * [Switch](./Basicos/Switch.java)
 * [Depuracion](./Basicos/Depuracion.java)
 * [Clases y Objetos](./Basicos/Objetos.java)
+* [Metodo Recursivo](./Basicos/MetodoRecursivo.java)
+
 
 ### Area de diferentes figuras
 Por medio de una clase se contendran los diferentes metodos para calcular el area de 3 figuras geometricas basicas(cuadrado, triangulo y circulo)
