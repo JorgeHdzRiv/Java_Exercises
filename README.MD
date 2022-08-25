@@ -29,6 +29,7 @@ El usuario podra introducir la opcion de la figura a la cual calcular el area y 
 * [Encapsulacion](./Intermedios/Encapsulacion.java)
 * [Clase Persona con Encapsulacion](./Intermedios/Main.java)
 * [Herencia](./Intermedios/Herencia.java)
+* [Abstraccion](./Intermedios/Abstraccion.java)
 
 ## OpenBootCamp
 
