@@ -91,6 +91,19 @@ por consola informando de la estación en la que está. También habrá que pone
 
 ### Ejercicio Tema 8 OpenBootCamp
 
+### Requerimientos:
+
+Crear clase Persona.
+
+Crear variables las privadas edad, nombre y telefono de la clase Persona.
+
+Crear gets y sets de cada propiedad.
+
+Crear un objeto persona en el main.
+
+Utiliza los gets y sets para darle valores a las propiedades edad, nombre y telefono, 
+por último muéstralas por consola
+
 * [Encapsulacion](./Ejercicios_Tema8/Main.java)
 
 ### Ejercicio Tema 9 OpenBootCamp
