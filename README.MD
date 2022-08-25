@@ -27,6 +27,7 @@ El usuario podra introducir la opcion de la figura a la cual calcular el area y 
 ## Intermedios 
 
 * [Encapsulacion](./Intermedios/Encapsulacion.java)
+* [Clase Persona con Encapsulacion](./Intermedios/Main.java)
 
 ## OpenBootCamp
 
@@ -38,6 +39,10 @@ El usuario podra introducir la opcion de la figura a la cual calcular el area y 
 ### Ejercicio Tema 4 OpenBootCamp
 
 * [Sentencias de control](./Ejercicios_Tema4/SentenciasControl.java)
+
+### Ejercicio Tema 8 OpenBootCamp
+
+* [Encapsulacion](./Ejercicios_Tema8/Main.java)
 
 
 
