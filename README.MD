@@ -36,8 +36,30 @@ El usuario podra introducir la opcion de la figura a la cual calcular el area y 
 
 ### Ejercicios Tema 3 OpenBootCamp
 
-* [ClaseCoche](./Ejercicios_Tema3/Coche.java)
+### Requerimientos:
+
+Primera parte:
+
+Crear una función con tres parámetros que sean números que se suman entre sí.
+
+Llamar a la función en el main y darle valores.
+
 * [SumaTresValores](./Ejercicios_Tema3/sumaValores.java)
+
+Segunda parte:
+
+Crear una clase coche.
+
+Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
+
+Una función que incremente el número de puertas que tiene el coche.
+
+Crear un objeto miCoche en el main y añadirle una puerta.
+
+Mostrar el número de puertas que tiene el objeto.
+
+* [ClaseCoche](./Ejercicios_Tema3/Coche.java)
+
 
 ### Ejercicio Tema 4 OpenBootCamp
 
